@@ -6,6 +6,6 @@ services:
       context: .
     tty: true
     volumes:
-      - .:/app
+      - .:/dotnet_volume
     ports:
       - 5001:5001

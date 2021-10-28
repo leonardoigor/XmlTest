@@ -193,26 +193,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\igor\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\testeXml\\testeXML\\testeXML.csproj",
+      "projectUniqueName": "/dotnet_volume/testeXML.csproj",
       "projectName": "testeXML",
-      "projectPath": "E:\\testeXml\\testeXML\\testeXML.csproj",
-      "packagesPath": "C:\\Users\\igor\\.nuget\\packages\\",
-      "outputPath": "E:\\testeXml\\testeXML\\obj\\",
+      "projectPath": "/dotnet_volume/testeXML.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/dotnet_volume/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -254,7 +252,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
